@@ -1,14 +1,14 @@
 {
-    "name": "@afipsdk/afip.js",
+    "name": "@matimrqz/afip.js",
     "version": "0.8.0",
-    "description": "Libreria para usar los Web Services de AFIP con JavaScript",
+    "description": "Fork de libreria para usar los Web Services de AFIP con JavaScript con posibilidad de emisión de múltiples facturas de una sola vez.",
     "main": "src/Afip.js",
     "scripts": {
         "test": "echo \"No test specified\""
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AfipSDK/afip.js"
+        "url": "git+https://github.com/MatiMrqz/afip.js"
     },
     "keywords": [
         "web-service",
@@ -19,9 +19,9 @@
     "author": "AfipSDK <afipsdk@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/AfipSDK/afip.js/issues"
+        "url": "https://github.com/MatiMrqz/afip.js/issues"
     },
-    "homepage": "https://github.com/AfipSDK/afip.js#readme",
+    "homepage": "https://github.com/MatiMrqz/afip.js#readme",
     "dependencies": {
         "node-forge": "^1.0.0",
         "soap": "^0.24.0",
